@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Project</string>
+    <string name="input_details">input_details</string>
+    <string name="todo">todo</string>
+    <string name="name">name</string>
+    <string name="contact">contact</string>
+    <string name="description">description</string>
+    <string name="submit">submit</string>
 </resources>
